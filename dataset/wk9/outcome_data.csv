@@ -1,15 +1,15 @@
-District, House Type, Income, Previous Customer, Outcome
-Suburban, Detached, High, No, Not responded
-Suburban, Detached, High, Yes, Not responded
-Rural, Detached, High, No, Responded
-Urban, Semi-detached, High, No, Responded
-Urban, Semi-detached, Low, No, Responded
-Urban, Semi-detached, Low, Yes, Not responded
-Rural, Semi-detached, Low, Yes, Responded
-Suburban, Terrace, High, No, Not responded
-Suburban, Semi-detached, Low, No, Responded
-Urban, Terrace, Low, No, Responded
-Suburban, Terrace, Low, Yes, Responded
-Rural, Terrace, High, Yes, Responded
-Rural, Detached, Low, No, Responded
-Urban, Terrace, High, Yes, Not responded
+District,House Type,Income,Previous Customer,Outcome
+Suburban,Detached,High,No,Not responded
+Suburban,Detached,High,Yes,Not responded
+Rural,Detached,High,No,Responded
+Urban,Semi-detached,High,No,Responded
+Urban,Semi-detached,Low,No,Responded
+Urban,Semi-detached,Low,Yes,Not responded
+Rural,Semi-detached,Low,Yes,Responded
+Suburban,Terrace,High,No,Not responded
+Suburban,Semi-detached,Low,No,Responded
+Urban,Terrace,Low,No,Responded
+Suburban,Terrace,Low,Yes,Responded
+Rural,Terrace,High,Yes,Responded
+Rural,Detached,Low,No,Responded
+Urban,Terrace,High,Yes,Not responded
